@@ -1,0 +1,17 @@
+{
+  "name": "mongoose-model-images",
+  "version": "1.0.0",
+  "description": "Mongoose model images plugin",
+  "main": "index.js",
+  "keywords": [
+    "images",
+    "pictures",
+    "photo"
+  ],
+  "author": {
+    "name": "Nikolay Zhuravlev",
+    "email": "Nikolay.A.Zhuravlev@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {}
+}
