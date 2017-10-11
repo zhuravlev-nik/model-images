@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-model-images",
+  "name": "mongoose-model-images-plugin",
   "version": "1.0.0",
   "description": "Mongoose model images plugin",
   "main": "index.js",
@@ -13,5 +13,11 @@
     "email": "Nikolay.A.Zhuravlev@gmail.com"
   },
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "async": "^2.5.0",
+    "fs": "0.0.1-security",
+    "mime": "^2.0.3",
+    "mongoose": "^4.12.1",
+    "request": "^2.83.0"
+  }
 }
