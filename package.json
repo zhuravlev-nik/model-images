@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-model-images-plugin",
+  "name": "model-images",
   "version": "1.0.0",
   "description": "Mongoose model images plugin",
   "main": "index.js",
